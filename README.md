@@ -18,7 +18,8 @@ This is a simple web application built with PHP and MySQL that allows users to v
    ```bash
    http://localhost/folder-name/process.php
   Replace __'folder-name'__ with your exact folder name.
-6. Interact with the platform and ensure you are able to post and get data.
+  
+Interact with the platform and ensure you are able to post and get data.
 
 ## Contribution and asistance
 
